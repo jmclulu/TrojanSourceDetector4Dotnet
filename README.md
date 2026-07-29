@@ -28,7 +28,7 @@ The compilers support this unique code that you do not see, when compiling your 
 
 Scan your project files to find hidden characters that your IDE does not interpret but the compiler does process.
 
-## Instalation
+## Installation
 
 On CMD or PowerShell:
 
